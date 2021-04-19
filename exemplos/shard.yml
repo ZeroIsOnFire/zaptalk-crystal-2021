@@ -1,0 +1,6 @@
+name: zaptalk
+version: 1.0.0
+
+dependencies:
+  slang:
+    github: jeromegn/slang
